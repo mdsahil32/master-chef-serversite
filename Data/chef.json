@@ -8,7 +8,7 @@
         "likes": 15000
     },
     {
-        "id": 2,
+        "id": 1,
         "chef_picture": "https://example.com/chef2.jpg",
         "chef_name": "Emma Wilson",
         "years_of_experience": 10,
@@ -16,7 +16,7 @@
         "likes": 12000
     },
     {
-        "id": 3,
+        "id": 1,
         "chef_picture": "https://example.com/chef3.jpg",
         "chef_name": "David Lee",
         "years_of_experience": 15,
@@ -24,7 +24,7 @@
         "likes": 18000
     },
     {
-        "id": 4,
+        "id": 1,
         "chef_picture": "https://example.com/chef4.jpg",
         "chef_name": "Julia Brown",
         "years_of_experience": 8,
@@ -32,7 +32,7 @@
         "likes": 10000
     },
     {
-        "id": 5,
+        "id": 2,
         "chef_picture": "https://example.com/chef5.jpg",
         "chef_name": "Michael Kim",
         "years_of_experience": 20,
@@ -40,7 +40,7 @@
         "likes": 24000
     },
     {
-        "id": 6,
+        "id": 2,
         "chef_picture": "https://example.com/chef6.jpg",
         "chef_name": "Sarah Johnson",
         "years_of_experience": 6,
@@ -48,7 +48,7 @@
         "likes": 8000
     },
     {
-        "id": 7,
+        "id": 3,
         "chef_picture": "https://example.com/chef7.jpg",
         "chef_name": "Daniel Garcia",
         "years_of_experience": 18,
@@ -56,7 +56,7 @@
         "likes": 20000
     },
     {
-        "id": 8,
+        "id": 4,
         "chef_picture": "https://example.com/chef8.jpg",
         "chef_name": "Laura Chen",
         "years_of_experience": 5,
@@ -64,7 +64,7 @@
         "likes": 6000
     },
     {
-        "id": 9,
+        "id": 4,
         "chef_picture": "https://example.com/chef9.jpg",
         "chef_name": "James Lee",
         "years_of_experience": 14,
@@ -72,7 +72,7 @@
         "likes": 16000
     },
     {
-        "id": 10,
+        "id": 4,
         "chef_picture": "https://example.com/chef10.jpg",
         "chef_name": "Sophia Davis",
         "years_of_experience": 9,
@@ -80,7 +80,7 @@
         "likes": 11000
     },
     {
-        "id": 11,
+        "id": 5,
         "chef_picture": "https://example.com/chef11.jpg",
         "chef_name": "Mark Chen",
         "years_of_experience": 16,
@@ -88,7 +88,7 @@
         "likes": 19000
     },
     {
-        "id": 12,
+        "id": 5,
         "chef_picture": "https://example.com/chef21.jpg",
         "chef_name": "Michael Nguyen",
         "years_of_experience": 6,
@@ -96,7 +96,7 @@
         "likes": 8000
     },
     {
-        "id": 13,
+        "id": 3,
         "chef_picture": "https://example.com/chef13.jpg",
         "chef_name": "Robert Wilson",
         "years_of_experience": 11,
@@ -104,7 +104,7 @@
         "likes": 14000
     },
     {
-        "id": 14,
+        "id": 6,
         "chef_picture": "https://example.com/chef14.jpg",
         "chef_name": "Hannah Kim",
         "years_of_experience": 7,
@@ -112,7 +112,7 @@
         "likes": 9000
     },
     {
-        "id": 15,
+        "id": 6,
         "chef_picture": "https://example.com/chef15.jpg",
         "chef_name": "William Rodriguez",
         "years_of_experience": 13,
@@ -120,7 +120,7 @@
         "likes": 17000
     },
     {
-        "id": 16,
+        "id": 6,
         "chef_picture": "https://example.com/chef16.jpg",
         "chef_name": "Ava Lee",
         "years_of_experience": 4,
@@ -128,7 +128,7 @@
         "likes": 5000
     },
     {
-        "id": 17,
+        "id": 6,
         "chef_picture": "https://example.com/chef17.jpg",
         "chef_name": "Christopher Johnson",
         "years_of_experience": 19,
@@ -136,7 +136,7 @@
         "likes": 22000
     },
     {
-        "id": 18,
+        "id": 7,
         "chef_picture": "https://example.com/chef18.jpg",
         "chef_name": "Emily Chen",
         "years_of_experience": 3,
@@ -144,7 +144,7 @@
         "likes": 4000
     },
     {
-        "id": 19,
+        "id": 7,
         "chef_picture": "https://example.com/chef19.jpg",
         "chef_name": "Daniel Lee",
         "years_of_experience": 17,
@@ -152,11 +152,91 @@
         "likes": 21000
     },
     {
-        "id": 20,
+        "id": 7,
         "chef_picture": "https://example.com/chef20.jpg",
         "chef_name": "Sophie Brown",
         "years_of_experience": 12,
         "number_of_recipes": 75,
         "likes": 15000
+    },
+    {
+        "id": 7,
+        "chef_picture": "https://example.com/chef22.jpg",
+        "chef_name": "Jasmine Patel",
+        "years_of_experience": 9,
+        "number_of_recipes": 60,
+        "likes": 12000
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://example.com/chef23.jpg",
+        "chef_name": "Ethan Martin",
+        "years_of_experience": 14,
+        "number_of_recipes": 90,
+        "likes": 18000
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://example.com/chef24.jpg",
+        "chef_name": "Isabella Thomas",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 6000
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://example.com/chef25.jpg",
+        "chef_name": "Jacob Lee",
+        "years_of_experience": 10,
+        "number_of_recipes": 65,
+        "likes": 13000
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://example.com/chef26.jpg",
+        "chef_name": "Olivia Davis",
+        "years_of_experience": 8,
+        "number_of_recipes": 50,
+        "likes": 10000
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://example.com/chef27.jpg",
+        "chef_name": "Aiden Wilson",
+        "years_of_experience": 3,
+        "number_of_recipes": 20,
+        "likes": 4000
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://example.com/chef28.jpg",
+        "chef_name": "Sofia Thompson",
+        "years_of_experience": 12,
+        "number_of_recipes": 80,
+        "likes": 16000
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://example.com/chef29.jpg",
+        "chef_name": "Mia Lee",
+        "years_of_experience": 7,
+        "number_of_recipes": 45,
+        "likes": 9000
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://example.com/chef30.jpg",
+        "chef_name": "Ethan Kim",
+        "years_of_experience": 11,
+        "number_of_recipes": 70,
+        "likes": 14000
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://example.com/chef31.jpg",
+        "chef_name": "Chloe Chen",
+        "years_of_experience": 4,
+        "number_of_recipes": 25,
+        "likes": 5000
     }
 ]
