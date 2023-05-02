@@ -5,7 +5,7 @@
     },
     {
         "id": 1,
-        "name": "United States of America"
+        "name": "American"
     },
     {
         "id": 2,
@@ -13,26 +13,26 @@
     },
     {
         "id": 3,
-        "name": "Japan"
+        "name": "Japanese"
     },
     {
         "id": 4,
-        "name": "Brazil"
+        "name": "French"
     },
     {
         "id": 5,
-        "name": "Russia"
+        "name": "Korean"
     },
     {
         "id": 6,
-        "name": "India"
+        "name": "Italian"
     },
     {
         "id": 7,
-        "name": "United Kingdom"
+        "name": "Indian"
     },
     {
         "id": 8,
-        "name": "Canada"
+        "name": "Nepalese"
     }
 ]
