@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://example.com/chef1.jpg",
+        "code": "1x",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683015289~exp=1683015889~hmac=a95d806c20f00984f3b8ebe9881d196c3c3ab8657fc4e03a28ef5611f067c498",
         "chef_name": "John Smith",
         "years_of_experience": 12,
         "number_of_recipes": 75,
@@ -9,7 +10,8 @@
     },
     {
         "id": 1,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "code":"2x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683015333~exp=1683015933~hmac=e173a7dddbf1ca1d2a40dc1076796bee432fe9ec858fd66ebd1da6890f9d2ae0",
         "chef_name": "Emma Wilson",
         "years_of_experience": 10,
         "number_of_recipes": 60,
@@ -17,7 +19,8 @@
     },
     {
         "id": 1,
-        "chef_picture": "https://example.com/chef3.jpg",
+        "code":"3x",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683015231~exp=1683015831~hmac=ae940a7b83c1eafe9e245f182ec7027eb479c77554faf17131c6cafcac35f559",
         "chef_name": "David Lee",
         "years_of_experience": 15,
         "number_of_recipes": 90,
@@ -25,7 +28,8 @@
     },
     {
         "id": 1,
-        "chef_picture": "https://example.com/chef4.jpg",
+        "code":"4x",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-male-chef-cook-restaurant-kitchen_496169-81.jpg?w=740&t=st=1683015376~exp=1683015976~hmac=0cd8219e4509700c18f0d127fcf98e06b434156840d3633368b76d0cd8e7feac",
         "chef_name": "Julia Brown",
         "years_of_experience": 8,
         "number_of_recipes": 50,
@@ -33,7 +37,8 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/chef5.jpg",
+        "code":"5x",
+        "chef_picture": "https://img.freepik.com/free-photo/young-baker-holding-some-bread-with-thumb-up_1368-9870.jpg?w=360&t=st=1683015368~exp=1683015968~hmac=7bad6c6890c69f99a5e32ee66098acb73228865ce0e3b403ae415ba6b834c160",
         "chef_name": "Michael Kim",
         "years_of_experience": 20,
         "number_of_recipes": 120,
@@ -41,7 +46,8 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/chef6.jpg",
+        "code":"6x",
+        "chef_picture": "https://img.freepik.com/free-photo/young-female-cooking-white-cook-suit-white-cap-smiling-surprised_140725-16464.jpg?w=740&t=st=1683015355~exp=1683015955~hmac=d4979fc5e5c249675ba54dff7691132e36a03436e019a7f3a28aa3b3f64bd8a3",
         "chef_name": "Sarah Johnson",
         "years_of_experience": 6,
         "number_of_recipes": 40,
@@ -49,7 +55,8 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef7.jpg",
+        "code":"7x",
+        "chef_picture": "https://img.freepik.com/free-photo/medium-shot-chef-posing-with-spatula_23-2148723240.jpg?w=360&t=st=1683015342~exp=1683015942~hmac=6df40c9090443d93928ea0c730f1299e64d93f5eff074b01395627d8bc026d63",
         "chef_name": "Daniel Garcia",
         "years_of_experience": 18,
         "number_of_recipes": 100,
@@ -57,7 +64,8 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/chef8.jpg",
+        "code":"8x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683015333~exp=1683015933~hmac=e173a7dddbf1ca1d2a40dc1076796bee432fe9ec858fd66ebd1da6890f9d2ae0",
         "chef_name": "Laura Chen",
         "years_of_experience": 5,
         "number_of_recipes": 30,
@@ -65,7 +73,8 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/chef9.jpg",
+        "code":"9x",
+        "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683015323~exp=1683015923~hmac=1f575b99f5006fa47aa2c8e39b0ef7e5c0fd0769f3aae9d8eba409c10038fcf7",
         "chef_name": "James Lee",
         "years_of_experience": 14,
         "number_of_recipes": 80,
@@ -73,7 +82,8 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/chef10.jpg",
+        "code":"10x",
+        "chef_picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=740&t=st=1683015317~exp=1683015917~hmac=223806ffa6b5a58e2b47aea53e160000f3fd6ede371f0b4d1dba77dffdcd5237",
         "chef_name": "Sophia Davis",
         "years_of_experience": 9,
         "number_of_recipes": 55,
@@ -81,7 +91,8 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef11.jpg",
+        "code":"11x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-with-pan-copy-space_23-2148723244.jpg?w=826&t=st=1683015274~exp=1683015874~hmac=4276b5d9260202120261a448cd8ab60bcaa8d2d08167344ae5ea828ed4fc2922",
         "chef_name": "Mark Chen",
         "years_of_experience": 16,
         "number_of_recipes": 95,
@@ -89,7 +100,8 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef21.jpg",
+        "code":"12x",
+        "chef_picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg?w=360&t=st=1683015306~exp=1683015906~hmac=72993b01a022d99cf1806b5fa957a3dc752f093ae31b56343f67a6b058e03c8a",
         "chef_name": "Michael Nguyen",
         "years_of_experience": 6,
         "number_of_recipes": 40,
@@ -97,7 +109,8 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef13.jpg",
+        "code":"13x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=740&t=st=1683015296~exp=1683015896~hmac=6c034812017c4eac913b4d67da5779aaeb21c44cadb5e6bb38b67c7b2ad64b26",
         "chef_name": "Robert Wilson",
         "years_of_experience": 11,
         "number_of_recipes": 70,
@@ -105,7 +118,8 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef14.jpg",
+        "code":"14x",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683015289~exp=1683015889~hmac=a95d806c20f00984f3b8ebe9881d196c3c3ab8657fc4e03a28ef5611f067c498",
         "chef_name": "Hannah Kim",
         "years_of_experience": 7,
         "number_of_recipes": 45,
@@ -113,7 +127,8 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef15.jpg",
+        "code":"15x",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683015231~exp=1683015831~hmac=ae940a7b83c1eafe9e245f182ec7027eb479c77554faf17131c6cafcac35f559",
         "chef_name": "William Rodriguez",
         "years_of_experience": 13,
         "number_of_recipes": 85,
@@ -121,7 +136,8 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef16.jpg",
+        "code":"16x",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683015218~exp=1683015818~hmac=a864dec16dc5bfb4169df36c08310906b56a95a1080797b1850373bc2aeac0b3",
         "chef_name": "Ava Lee",
         "years_of_experience": 4,
         "number_of_recipes": 25,
@@ -129,7 +145,8 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef17.jpg",
+        "code":"17x",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-male-chef-cook-restaurant-kitchen_496169-81.jpg?w=740&t=st=1683015376~exp=1683015976~hmac=0cd8219e4509700c18f0d127fcf98e06b434156840d3633368b76d0cd8e7feac",
         "chef_name": "Christopher Johnson",
         "years_of_experience": 19,
         "number_of_recipes": 110,
@@ -137,7 +154,8 @@
     },
     {
         "id": 7,
-        "chef_picture": "https://example.com/chef18.jpg",
+        "code":"18x",
+        "chef_picture": "https://img.freepik.com/free-photo/young-baker-holding-some-bread-with-thumb-up_1368-9870.jpg?w=360&t=st=1683015368~exp=1683015968~hmac=7bad6c6890c69f99a5e32ee66098acb73228865ce0e3b403ae415ba6b834c160",
         "chef_name": "Emily Chen",
         "years_of_experience": 3,
         "number_of_recipes": 20,
@@ -145,7 +163,8 @@
     },
     {
         "id": 7,
-        "chef_picture": "https://example.com/chef19.jpg",
+        "code":"19x",
+        "chef_picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1683015361~exp=1683015961~hmac=5c20cb4e6778a0fe3fd96c67e9ad4a7bfcf08a65d35cd5096a9408cabe475997",
         "chef_name": "Daniel Lee",
         "years_of_experience": 17,
         "number_of_recipes": 105,
@@ -153,7 +172,8 @@
     },
     {
         "id": 7,
-        "chef_picture": "https://example.com/chef20.jpg",
+        "code":"20x",
+        "chef_picture": "https://img.freepik.com/free-photo/young-female-cooking-white-cook-suit-white-cap-smiling-surprised_140725-16464.jpg?w=740&t=st=1683015355~exp=1683015955~hmac=d4979fc5e5c249675ba54dff7691132e36a03436e019a7f3a28aa3b3f64bd8a3",
         "chef_name": "Sophie Brown",
         "years_of_experience": 12,
         "number_of_recipes": 75,
@@ -161,7 +181,8 @@
     },
     {
         "id": 7,
-        "chef_picture": "https://example.com/chef22.jpg",
+        "code":"21x",
+        "chef_picture": "https://img.freepik.com/free-photo/medium-shot-chef-posing-with-spatula_23-2148723240.jpg?w=360&t=st=1683015342~exp=1683015942~hmac=6df40c9090443d93928ea0c730f1299e64d93f5eff074b01395627d8bc026d63",
         "chef_name": "Jasmine Patel",
         "years_of_experience": 9,
         "number_of_recipes": 60,
@@ -169,7 +190,8 @@
     },
     {
         "id": 8,
-        "chef_picture": "https://example.com/chef23.jpg",
+        "code":"22x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683015333~exp=1683015933~hmac=e173a7dddbf1ca1d2a40dc1076796bee432fe9ec858fd66ebd1da6890f9d2ae0",
         "chef_name": "Ethan Martin",
         "years_of_experience": 14,
         "number_of_recipes": 90,
@@ -177,7 +199,8 @@
     },
     {
         "id": 8,
-        "chef_picture": "https://example.com/chef24.jpg",
+        "code":"23x",
+        "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683015323~exp=1683015923~hmac=1f575b99f5006fa47aa2c8e39b0ef7e5c0fd0769f3aae9d8eba409c10038fcf7",
         "chef_name": "Isabella Thomas",
         "years_of_experience": 5,
         "number_of_recipes": 30,
@@ -185,7 +208,8 @@
     },
     {
         "id": 8,
-        "chef_picture": "https://example.com/chef25.jpg",
+        "code":"24x",
+        "chef_picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=740&t=st=1683015317~exp=1683015917~hmac=223806ffa6b5a58e2b47aea53e160000f3fd6ede371f0b4d1dba77dffdcd5237",
         "chef_name": "Jacob Lee",
         "years_of_experience": 10,
         "number_of_recipes": 65,
@@ -193,7 +217,8 @@
     },
     {
         "id": 8,
-        "chef_picture": "https://example.com/chef26.jpg",
+        "code":"25x",
+        "chef_picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg?w=360&t=st=1683015306~exp=1683015906~hmac=72993b01a022d99cf1806b5fa957a3dc752f093ae31b56343f67a6b058e03c8a",
         "chef_name": "Olivia Davis",
         "years_of_experience": 8,
         "number_of_recipes": 50,
@@ -201,7 +226,8 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/chef27.jpg",
+        "code":"26x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=740&t=st=1683015296~exp=1683015896~hmac=6c034812017c4eac913b4d67da5779aaeb21c44cadb5e6bb38b67c7b2ad64b26",
         "chef_name": "Aiden Wilson",
         "years_of_experience": 3,
         "number_of_recipes": 20,
@@ -209,7 +235,8 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/chef28.jpg",
+        "code":"27x",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683015289~exp=1683015889~hmac=a95d806c20f00984f3b8ebe9881d196c3c3ab8657fc4e03a28ef5611f067c498",
         "chef_name": "Sofia Thompson",
         "years_of_experience": 12,
         "number_of_recipes": 80,
@@ -217,7 +244,8 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef29.jpg",
+        "code":"28x",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-with-pan-copy-space_23-2148723244.jpg?w=826&t=st=1683015274~exp=1683015874~hmac=4276b5d9260202120261a448cd8ab60bcaa8d2d08167344ae5ea828ed4fc2922",
         "chef_name": "Mia Lee",
         "years_of_experience": 7,
         "number_of_recipes": 45,
@@ -225,7 +253,8 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef30.jpg",
+        "code":"29x",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683015231~exp=1683015831~hmac=ae940a7b83c1eafe9e245f182ec7027eb479c77554faf17131c6cafcac35f559",
         "chef_name": "Ethan Kim",
         "years_of_experience": 11,
         "number_of_recipes": 70,
@@ -233,7 +262,8 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef31.jpg",
+        "code":"30x",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683015218~exp=1683015818~hmac=a864dec16dc5bfb4169df36c08310906b56a95a1080797b1850373bc2aeac0b3",
         "chef_name": "Chloe Chen",
         "years_of_experience": 4,
         "number_of_recipes": 25,
