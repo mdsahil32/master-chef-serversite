@@ -1,24 +1,6 @@
 [
     {
         "id": "1",
-        "code": "1x",
-        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683015289~exp=1683015889~hmac=a95d806c20f00984f3b8ebe9881d196c3c3ab8657fc4e03a28ef5611f067c498",
-        "chef_name": "John Smith",
-        "years_of_experience": 12,
-        "number_of_recipes": 75,
-        "rating":5,"likes": 15000,
-        "specialty": "French cuisine",
-        "title": "Executive Chef",
-        "details": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "1",
         "code": "2x",
         "chef_picture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683015333~exp=1683015933~hmac=e173a7dddbf1ca1d2a40dc1076796bee432fe9ec858fd66ebd1da6890f9d2ae0",
         "chef_name": "Emma Wilson",
@@ -71,24 +53,7 @@
             "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
         }
     },
-    {
-        "id": "2",
-        "code": "5x",
-        "chef_picture": "https://img.freepik.com/free-photo/young-baker-holding-some-bread-with-thumb-up_1368-9870.jpg?w=360&t=st=1683015368~exp=1683015968~hmac=7bad6c6890c69f99a5e32ee66098acb73228865ce0e3b403ae415ba6b834c160",
-        "chef_name": "Michael Kim",
-        "years_of_experience": 20,
-        "number_of_recipes": 120,
-        "rating":5,"likes": 24000,
-        "specialty": "chinese cuisine",
-        "title": "Sous Chef",
-        "details": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
+   
     {
         "id": "2",
         "code": "6x",
@@ -125,24 +90,7 @@
             "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
         }
     },
-    {
-        "id": "4",
-        "code": "8x",
-        "chef_picture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683015333~exp=1683015933~hmac=e173a7dddbf1ca1d2a40dc1076796bee432fe9ec858fd66ebd1da6890f9d2ae0",
-        "chef_name": "Laura Chen",
-        "years_of_experience": 5,
-        "number_of_recipes": 30,
-        "rating":5,"likes": 6000,
-        "specialty": "chinese cuisine",
-        "title": "Executive Sous Chef",
-        "details": "Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
+    
     {
         "id": "4",
         "code": "9x",
@@ -181,24 +129,6 @@
     },
     {
         "id": "5",
-        "code": "11x",
-        "chef_picture": "https://img.freepik.com/free-photo/chef-with-pan-copy-space_23-2148723244.jpg?w=826&t=st=1683015274~exp=1683015874~hmac=4276b5d9260202120261a448cd8ab60bcaa8d2d08167344ae5ea828ed4fc2922",
-        "chef_name": "Mark Chen",
-        "years_of_experience": 16,
-        "number_of_recipes": 95,
-        "rating":4.5,"likes": 19000,
-        "specialty": "italian cuisine",
-        "title": "Sous Chef",
-        "details": "Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "5",
         "code": "12x",
         "chef_picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg?w=360&t=st=1683015306~exp=1683015906~hmac=72993b01a022d99cf1806b5fa957a3dc752f093ae31b56343f67a6b058e03c8a",
         "chef_name": "Michael Nguyen",
@@ -208,60 +138,6 @@
         "specialty": "American cuisine",
         "title": "Sous Chef",
         "details": "Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "3",
-        "code": "13x",
-        "chef_picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=740&t=st=1683015296~exp=1683015896~hmac=6c034812017c4eac913b4d67da5779aaeb21c44cadb5e6bb38b67c7b2ad64b26",
-        "chef_name": "Robert Wilson",
-        "years_of_experience": 11,
-        "number_of_recipes": 70,
-        "rating":5,"likes": 14000,
-        "specialty": "Korean cuisine",
-        "title": "Executive Pastry Chef",
-        "details": "Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "6",
-        "code": "14x",
-        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683015289~exp=1683015889~hmac=a95d806c20f00984f3b8ebe9881d196c3c3ab8657fc4e03a28ef5611f067c498",
-        "chef_name": "Hannah Kim",
-        "years_of_experience": 7,
-        "number_of_recipes": 45,
-        "rating":5,"likes": 9000,
-        "specialty": "italian cuisine",
-        "title": "Executive Pastry Chef",
-        "details": "Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "6",
-        "code": "15x",
-        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683015231~exp=1683015831~hmac=ae940a7b83c1eafe9e245f182ec7027eb479c77554faf17131c6cafcac35f559",
-        "chef_name": "William Rodriguez",
-        "years_of_experience": 13,
-        "number_of_recipes": 85,
-        "rating":5,"likes": 17000,
-        "specialty": "italian cuisine",
-        "title": "Executive Pastry Chef",
-        "details": "Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
         "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
         "viewRecipe": {
             "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
@@ -295,24 +171,6 @@
         "years_of_experience": 19,
         "number_of_recipes": 110,
         "rating":5,"likes": 22000,
-        "specialty": "japanese cuisine",
-        "title": "Chef de Cuisine",
-        "details": "Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "7",
-        "code": "18x",
-        "chef_picture": "https://img.freepik.com/free-photo/young-baker-holding-some-bread-with-thumb-up_1368-9870.jpg?w=360&t=st=1683015368~exp=1683015968~hmac=7bad6c6890c69f99a5e32ee66098acb73228865ce0e3b403ae415ba6b834c160",
-        "chef_name": "Emily Chen",
-        "years_of_experience": 3,
-        "number_of_recipes": 20,
-        "rating":5,"likes": 4000,
         "specialty": "japanese cuisine",
         "title": "Chef de Cuisine",
         "details": "Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
@@ -378,7 +236,7 @@
         }
     },
     {
-        "id": "8",
+        "id": "2",
         "code": "22x",
         "chef_picture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683015333~exp=1683015933~hmac=e173a7dddbf1ca1d2a40dc1076796bee432fe9ec858fd66ebd1da6890f9d2ae0",
         "chef_name": "Ethan Martin",
@@ -387,24 +245,6 @@
         "rating":5,"likes": 18000,
         "specialty": "Russian cuisine",
         "title": "Chef de Cuisine",
-        "details": "Grill Chef: This type of chef is responsible for cooking meats, fish, and vegetables on a grill, and must have a good understanding of different cooking techniques and how to work with various types of ingredients.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "8",
-        "code": "23x",
-        "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683015323~exp=1683015923~hmac=1f575b99f5006fa47aa2c8e39b0ef7e5c0fd0769f3aae9d8eba409c10038fcf7",
-        "chef_name": "Isabella Thomas",
-        "years_of_experience": 5,
-        "number_of_recipes": 30,
-        "rating":5,"likes": 6000,
-        "specialty": "Russian cuisine",
-        "title": "Chef de Partie",
         "details": "Grill Chef: This type of chef is responsible for cooking meats, fish, and vegetables on a grill, and must have a good understanding of different cooking techniques and how to work with various types of ingredients.",
         "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
         "viewRecipe": {
@@ -449,42 +289,7 @@
             "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
         }
     },
-    {
-        "id": "2",
-        "code": "26x",
-        "chef_picture": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=740&t=st=1683015296~exp=1683015896~hmac=6c034812017c4eac913b4d67da5779aaeb21c44cadb5e6bb38b67c7b2ad64b26",
-        "chef_name": "Aiden Wilson",
-        "years_of_experience": 3,
-        "number_of_recipes": 20,
-        "rating":4.6,"likes": 4000,
-        "specialty": "Italian cuisine",
-        "title": "Chef de Partie",
-        "details": "Grill Chef: This type of chef is responsible for cooking meats, fish, and vegetables on a grill, and must have a good understanding of different cooking techniques and how to work with various types of ingredients.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
-    {
-        "id": "2",
-        "code": "27x",
-        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683015289~exp=1683015889~hmac=a95d806c20f00984f3b8ebe9881d196c3c3ab8657fc4e03a28ef5611f067c498",
-        "chef_name": "Sofia Thompson",
-        "years_of_experience": 12,
-        "number_of_recipes": 80,
-        "rating":3.9,"likes": 16000,
-        "specialty": "Italian cuisine",
-        "title": "Chef de Partie",
-        "details": "Head Chef: This is the chef in charge of a particular kitchen or restaurant, responsible for menu planning, staff management, and ensuring that the food meets the restaurant's quality standards.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
+  
     {
         "id": "5",
         "code": "28x",
@@ -503,24 +308,7 @@
             "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
         }
     },
-    {
-        "id": "3",
-        "code": "29x",
-        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683015231~exp=1683015831~hmac=ae940a7b83c1eafe9e245f182ec7027eb479c77554faf17131c6cafcac35f559",
-        "chef_name": "Ethan Kim",
-        "years_of_experience": 11,
-        "number_of_recipes": 70,
-        "rating":5,"likes": 14000,
-        "specialty": "Nepalese cuisine",
-        "title": "Chef de Partie",
-        "details": "Head Chef: This is the chef in charge of a particular kitchen or restaurant, responsible for menu planning, staff management, and ensuring that the food meets the restaurant's quality standards.",
-        "chef_detail": "Executive Chef: This is the top chef in a kitchen, responsible for creating the menu, managing the kitchen staff, ordering supplies, and ensuring that the food is prepared to the highest quality standards.Sous Chef: This is the second-in-command in the kitchen, responsible for overseeing the kitchen staff, managing inventory, and assisting the Executive Chef with menu planning and execution.Pastry Chef: This type of chef specializes in creating desserts and other baked goods, such as breads and pastries.Saucier Chef: This type of chef is responsible for making sauces, soups, and stews, and is typically very skilled at creating complex flavor combinations.",
-        "viewRecipe": {
-            "recipe1": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1683033603~exp=1683034203~hmac=4df767118cfdb1386fa3a068e7349b2c72ee1f6fda20d6716b1e34c4b851250f",
-            "recipe2": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683033620~exp=1683034220~hmac=47c169594f2322c513d501911ca8ca1f082428f6a286fc092040b44788bfd8e2",
-            "recipe3": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683033638~exp=1683034238~hmac=b8c7c4c4b19227f28c8846846d5e6988fe2c12873bb0916e629b4fe4c1886677"
-        }
-    },
+    
     {
         "id": "3",
         "code": "30x",
